@@ -1,5 +1,4 @@
 {
-  "homepage": "http://aaroncalander.github.io/weather-locator",
   "name": "weather-locator",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +8,7 @@
     "react-scripts": "1.1.5"
   },
   "scripts": {
-    "predeploy": "npm run build"
-    "deploy": "weather-locator -d build",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
